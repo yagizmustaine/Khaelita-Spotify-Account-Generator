@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khaelita Spotify Generator", "Khaelita Spotify Generator\Khaelita Spotify Generator.csproj", "{3A25D38B-DCD2-4E67-B65B-5DA3E5A10CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A25D38B-DCD2-4E67-B65B-5DA3E5A10CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A25D38B-DCD2-4E67-B65B-5DA3E5A10CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A25D38B-DCD2-4E67-B65B-5DA3E5A10CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A25D38B-DCD2-4E67-B65B-5DA3E5A10CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BC22A7D-2C9B-42FF-A0EE-8D63EA32A01A}
+	EndGlobalSection
+EndGlobal

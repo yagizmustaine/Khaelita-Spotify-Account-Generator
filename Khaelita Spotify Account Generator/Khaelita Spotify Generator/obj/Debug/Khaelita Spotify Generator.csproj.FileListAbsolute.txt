@@ -1,0 +1,30 @@
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\bin\Debug\Khaelita Spotify Generator.exe.config
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\bin\Debug\Khaelita Spotify Generator.exe
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\bin\Debug\Khaelita Spotify Generator.pdb
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.exe
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.pdb
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.exe
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.pdb
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\bin\Debug\Khaelita Spotify Generator.exe.config
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\bin\Debug\Khaelita Spotify Generator.exe
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\bin\Debug\Khaelita Spotify Generator.pdb
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\Khaelita Spotify Generator - Kopya\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\bin\Debug\Khaelita Spotify Generator.exe.config
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\bin\Debug\Khaelita Spotify Generator.exe
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\bin\Debug\Khaelita Spotify Generator.pdb
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.exe
+C:\Users\lenovo\Desktop\Khaelita Spotify Account Generator\Khaelita Spotify Generator\obj\Debug\Khaelita Spotify Generator.pdb
